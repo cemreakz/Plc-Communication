@@ -1,0 +1,10 @@
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\bin\Debug\plcdenokumashar7.exe.config
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\bin\Debug\plcdenokumashar7.exe
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\bin\Debug\plcdenokumashar7.pdb
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\obj\Debug\plcdenokumashar7.csprojAssemblyReference.cache
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\obj\Debug\plcdenokumashar7.Form1.resources
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\obj\Debug\plcdenokumashar7.Properties.Resources.resources
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\obj\Debug\plcdenokumashar7.csproj.GenerateResource.cache
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\obj\Debug\plcdenokumashar7.csproj.CoreCompileInputs.cache
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\obj\Debug\plcdenokumashar7.exe
+C:\Users\cemre.acikgoz\source\repos\plcdenokumashar7\plcdenokumashar7\obj\Debug\plcdenokumashar7.pdb
